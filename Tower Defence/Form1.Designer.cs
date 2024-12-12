@@ -1,4 +1,4 @@
-﻿namespace Tower_Defence
+﻿namespace Tower_defence
 {
     partial class Form1
     {
